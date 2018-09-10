@@ -1,0 +1,22 @@
+<resources>
+        <string name="app_name"> CatalogueMovie </string>
+        <string name="_16_juni_2018"> 16 Juni 2018 </string>
+        <string name="release_date"> Tanggal rilis : </string>
+        <string name="overview_sinopsis"> ikhtisar / sinopsis </string>
+        <string name="project"> Project </string>
+        <string name="search_here"> Cari Di Sini </string>
+        <string name="overview_sinopsis_film"> Ikhtisar / Sinopsis film </string>
+
+        <string name="coming_soon"> Segera Hadir </string>
+        <string name="now_playing"> Sekarang Dimainkan </string>
+
+        <string name="title"> Katalog Movie 2 </string>
+        <string name="title_home"> Beranda </string>
+        <string name="search"> Cari </string>
+        <string name="title_activity_main2"> Main2Activity </string>
+        <string name="title_dashboard"> Dasbor </string>
+        <string name="title_notifications"> Pemberitahuan </string>
+        <string name="sinopsis"> Sinopsis </string>
+        <string name="average"> Vote Average </string>
+        <string name="change_language_settings"> Ubah Pengaturan Bahasa </string>
+</resources>

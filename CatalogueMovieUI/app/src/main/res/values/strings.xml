@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CatalogueMovie</string>
+    <string name="_16_juni_2018">16 Juni 2018</string>
+    <string name="release_date">Release date : </string>
+    <string name="overview_sinopsis">overview/sinopsis</string>
+    <string name="project">Project</string>
+    <string name="search_here">Search Here</string>
+    <string name="overview_sinopsis_film">Overview / Sinopsis film</string>
+
+    <string name="coming_soon">Coming Soon</string>
+    <string name="now_playing">Now Playing</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title">Catalogue Movie 2</string>
+    <string name="title_home">Home</string>
+    <string name="search">Search</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="average">voteAverage</string>
+    <string name="change_language_settings">Change Language Settings</string>
+</resources>
