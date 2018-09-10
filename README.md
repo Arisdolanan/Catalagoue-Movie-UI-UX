@@ -1,3 +1,7 @@
 # catalogueMovie
-Project Catalogue Movie 1 (https://www.dicoding.com/academies/14)
-<img src="Images/1.png"><img src="Images/2.png">
+Project Catalogue Movie 2 (https://www.dicoding.com/academies/14)
+<img src="Images/1.png" width="256">&nbsp;&nbsp;&nbsp;
+<img src="Images/2.png" width="256">&nbsp;&nbsp;&nbsp;
+<img src="Images/3.png" width="256">
+
+Untuk temen2 yang melihat referensi ini boleh minta STAR nya dong posisi STAR ada diatas yaa :D
